@@ -1,5 +1,5 @@
 int main(int argc, char **argv){
     printf("Hello there!");
-    printf("");
+    printf("What's up Dude?");
     return 0;
 }
